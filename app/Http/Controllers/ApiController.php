@@ -14,8 +14,8 @@ use OpenApi\Annotations as OA;
  *      version="1.0.0",
  *      description="API Documentation for Queo Challenge",
  *      @OA\Contact(
- *          email="admin@example.com",
- *          name="Admin"
+ *          email="javier_castillo_15@hotmail.es",
+ *          name="Francisco Javier Castillo Barrios"
  *      )
  *  ),
  *  @OA\Server(
