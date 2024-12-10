@@ -131,7 +131,7 @@ http://localhost:8000/api/documentation
 
 ## Autor
 
-Francisco Javier Castillo Barrios - [GitHub](https://github.com/Xaviierkasvar)
+Francisco Javier Castillo Barrios - [Portafolio Online](http://200.234.237.73/)
 
 ## Licencia
 
