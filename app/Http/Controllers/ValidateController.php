@@ -28,7 +28,7 @@ class ValidateController extends Controller
      * @OA\Post(
      *     path="/api/validate",
      *     summary="Validar respuesta al desafío",
-     *     description="Valida la respuesta proporcionada para el desafío actual. Limitado a 1 intento por minuto.",
+     *     description="Valida la respuesta proporcionada para el desafío actual. Limitado a 1 intento por hora.",
      *     operationId="validateChallenge",
      *     tags={"Validation"},
      *     security={{"bearerAuth":{}}},

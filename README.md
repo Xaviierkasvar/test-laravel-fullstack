@@ -35,6 +35,16 @@ php artisan serve
 ```
 El servidor estará disponible en `http://localhost:8000`
 
+### Generar documentación Swagger
+```bash
+php artisan l5-swagger:generate
+```
+
+### Ejecutar pruebas unitarias
+```bash
+php artisan test --testsuite=Unit
+```
+
 ### Documentación de la API
 
 La documentación de la API está disponible en:
@@ -109,6 +119,7 @@ http://localhost:8000/api/documentation
 - Rate limiting implementado
 - Documentación con Swagger/OpenAPI
 - Manejo de errores estandarizado
+- Tests unitarios implementados
 
 ## Demo
 
