@@ -21,7 +21,7 @@ class ValidateController extends Controller
         private ValidateService $validateService
     ) {
         $this->middleware('custom.auth');
-        $this->middleware('challenge.limit:50,60');
+        $this->middleware('challenge.limit:1,60');
     }
 
     /**
