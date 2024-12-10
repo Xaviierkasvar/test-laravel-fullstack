@@ -125,6 +125,10 @@ http://localhost:8000/api/documentation
 
 - [Enlace al repositorio](https://github.com/Xaviierkasvar/test-laravel-fullstack)
 
+- [Url a VPS](http://93.189.94.162/)
+
+- [Video explicativo YouTube](https://youtu.be/mCaS6jjt28Q)
+
 ## Autor
 
 Francisco Javier Castillo Barrios - [GitHub](https://github.com/Xaviierkasvar)
